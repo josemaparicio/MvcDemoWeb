@@ -1,0 +1,12 @@
+/Users/jose/github/MvcDemoWeb/RazorProject/RazorProject/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jose/github/MvcDemoWeb/RazorProject/RazorProject/bin/RazorProject.dll.mdb
+/Users/jose/github/MvcDemoWeb/RazorProject/RazorProject/bin/RazorProject.dll
+/Users/jose/github/MvcDemoWeb/RazorProject/RazorProject/obj/Debug/RazorProject.dll
+/Users/jose/github/MvcDemoWeb/RazorProject/RazorProject/obj/Debug/RazorProject.dll.mdb
+/Users/jose/github/MvcDemoWeb/RazorProject/RazorProject/bin/Microsoft.Web.Infrastructure.dll
+/Users/jose/github/MvcDemoWeb/RazorProject/RazorProject/bin/System.Web.Razor.dll
+/Users/jose/github/MvcDemoWeb/RazorProject/RazorProject/bin/System.Web.Helpers.dll
+/Users/jose/github/MvcDemoWeb/RazorProject/RazorProject/bin/System.Web.WebPages.dll
+/Users/jose/github/MvcDemoWeb/RazorProject/RazorProject/bin/System.Web.WebPages.Deployment.dll
+/Users/jose/github/MvcDemoWeb/RazorProject/RazorProject/bin/System.Web.WebPages.Razor.dll
+/Users/jose/github/MvcDemoWeb/RazorProject/RazorProject/bin/System.Web.Mvc.dll
